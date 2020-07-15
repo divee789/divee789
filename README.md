@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with my expo package
 - 📫 How to reach me: https://twitter.com/DivineOlokor
-- ⚡ Fun fact:
--->  ```javascript
+- ⚡ Fun fact: You can buy me a cup of coffee 😍 https://checkout.korapay.com/pay/divineolokor
+-  ```javascript
 function everLearning() {
  console.log("Coding is not a destination, it is a journey");
 }
