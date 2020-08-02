@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a payment integrations package with expo react native
-- 🌱 I’m currently learning python with django
+- 🔭 I’m currently working on an online marketplace built using rails.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on any open source project
-- 🤔 I’m looking for help with my expo package
+- 🤔 I’m looking for help with my ruby gem.
 - 📫 How to reach me: https://twitter.com/DivineOlokor
-- ⚡ Fun fact: You can buy me a cup of coffee 😍 https://checkout.korapay.com/pay/divineolokor
--  ```javascript
-function everLearning() {
- console.log("Coding is not a destination, it is a journey");
-}
-```
+- ⚡ Fun fact: You can buy me a cup of coffee
+ 😍 https://checkout.korapay.com/pay/divineolokor
