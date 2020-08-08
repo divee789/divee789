@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divine Olokor</h1>
 <h3 align="center">A software engineer on a journey to attaining global relevance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divee789" alt="divee789" /> </p>
-
 - 🔭 I’m currently working on an online digital marketplace using ruby on rails. [alpha_store](https://github..com/divee789/alpha_store_apis)
 
 - 📫 How to reach me **https://twitter.com/DivineOlokor**
