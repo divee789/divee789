@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divine Olokor</h1>
-<h3 align="center">A software engineer specialising primarily in backend services.I am also into frontend and mobile app development</h3>
+<h3 align="center">A software engineer specialising primarily in backend services.</h3>
+<h3 align="center">I am also into frontend and mobile app development</h3>
 
 - 🔭 I’m currently working on an online digital marketplace using ruby on rails. [alpha_store](https://github..com/divee789/alpha_store_apis)
 
