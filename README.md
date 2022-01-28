@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divine Olokor</h1>
 <h3 align="center">A software engineer specialising primarily in backend services and blockchain technologies.</h3>
-<p align="center">I am into anything that requires logical thinking and coding</p>
+<p align="center">My primary stack is solidity, Nodejs and React. But i also work with Ruby on Rails and Rust.</p>
 
 - 📫 How to reach me **https://twitter.com/DivineOlokor**
 
